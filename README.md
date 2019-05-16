@@ -26,11 +26,15 @@ Please note that above docker command will start Logstash and exposes three diff
 
 
 
-Refference Links:
+Refference Links:-
+-------------------
 https://www.elastic.co/guide/en/logstash/current/installing-logstash.html
-LogStash Input Plugins:
+
+LogStash Input Plugins: 
+
 https://www.elastic.co/guide/en/logstash/6.7/input-plugins.html
 
 Logstash Output Plugin:
+
 https://www.elastic.co/guide/en/logstash/current/output-plugins.html
 

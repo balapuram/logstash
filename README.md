@@ -1,4 +1,4 @@
-# Logstash
+# Logstash as a Container
 Pulling the image:-
 -------------------
 docker pull docker.elastic.co/logstash/logstash:7.0.1

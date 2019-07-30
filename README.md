@@ -1,6 +1,5 @@
 # Logstash as a Container
-Pulling the image:-
--------------------
+
 Introdution
 -----------
 
